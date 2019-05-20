@@ -1,0 +1,21 @@
+
+The day before two missionaries knotted our door. It's like you know someone is going to propose to you. You just know something big is going to happen and change your life forever, but you don't know what and how it will happen.
+The vision of Moroni, Joseph Smith, and gold plates.
+
+God send me from TSMC to a solar company. I got the production line up and running. Next year, this company was listed in stock market. I got a fortune from my option, which supports us for the quest to Salt Lake City. The sacred place to me.
+
+My feeling of temple.
+
+I have a personal feeling about temple. That's an extraordinary experience. 
+
+Prophets always tell us to serve in a mission. I just learned why. As far as I know, a lot of homeless people in Salt Lake City, is actually richer than a lot of members in my ward in Taiwan. It's the truth. The poverty line is about $25,000 a year of income here. However, that income is higher than the average income of a manager level job in Taiwan. And the house price in Taiwan is much higher. If any one of you have a doubt that you are not successful enough, you really should go serve in a country that much poor than here. After you really see how other people struggle in their life, you will forget all your problems right away.
+
+I'm going to say something funny about software. If you don't get me, it's totally fine. But if you ask someone who's savvy in computer, he could explain to you. So, here it is: Recently I'm studying in web site development, so I practiced how to describe every thing by software. It's called object-oriented, right? One day in sacrament meeting I was thinking, if the commandment about sacrament is written in Javascript, it would probably looks like:
+
+constant Sanctified_Bread = function Jesus_Christ(body);
+which means "this is my body", and
+constant Sanctified_Water = function Jesus_Christ(blood);
+which means "this is my blood"
+and we also need to call another function to eat and drink them.
+
+It's not just for fun. It makes a lot of sense to a nerd like me: When I think myself as a computer, and the commandments as computer codes, I can totally obey them without questions. That makes obeying the commandments really easy. No more personal issues. That's probably against the agency God gave us. However, that teaches me one thing that God gives us commandments for us to obey it and get gains from it, not for us to question it. Just like a computer will not question me about what I command it. So the takeaway is, when I don't want to obey some of the commandments, I can think how siri follows my commands diligently.
